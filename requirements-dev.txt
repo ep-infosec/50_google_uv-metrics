@@ -1,0 +1,9 @@
+# Required for development, not publication.
+hypothesis
+ipython
+pre-commit
+pytest==5.4.3
+pytest-cov==2.10.0
+tensorflow # for testing tensorboard.
+mlflow
+twine
